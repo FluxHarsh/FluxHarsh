@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=28&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Harsh+Jagtap+👋;Full+Stack+Web+Developer+%7C+MERN;Backend+%26+Web3+Learner;Consistency+is+my+superpower+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=28&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Harsh+Jagtap+👋;Full+Stack+Web+Developer+%7C+MERN;Backend+%26+Web3+Learner" />
 </p>
 
 ---
