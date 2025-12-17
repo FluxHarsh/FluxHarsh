@@ -12,7 +12,6 @@
 🔹 First-year CSE @ NIT Bhopal  
 🔹 Building real-world projects & sharpening fundamentals daily  
 
-💡 *I believe in compounding — 1% progress every single day.*
 
 ---
 
