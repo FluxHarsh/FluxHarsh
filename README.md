@@ -30,15 +30,3 @@
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
-
-🔹 **DriveX** – Drive-style file interface (EJS + Node basics)  
-🔹 **LeetMetric** – Leetcode stats UI  
-🔹 **EchoPlay** – Music Player Website (HTML/CSS/JS)  
-🔹 **PassOP** – Password generator / manager  
-🔹 **Payment UI Clone** – Frontend clone  
-
-👉 *Explore my pinned projects for more!*
-
----
-
