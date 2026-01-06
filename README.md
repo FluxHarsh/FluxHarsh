@@ -5,6 +5,12 @@
 
 ---
 
+## Hi 👋, I'm Harsh
+
+![Profile Views](https://komarev.com/ghpvc/?username=FluxHarsh&label=Profile%20Views&color=0e75b6)
+
+---
+
 <h2 align="center">🚀 About Me</h2>
 
 🔹 Full-Stack Web Developer (MERN)  
