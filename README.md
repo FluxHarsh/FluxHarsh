@@ -14,8 +14,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 🔹 Full-Stack Web Developer (MERN)  
-🔹 Learning Backend & Web3 
-
+🔹 Learning Backend & Web3      
 🔹 First-year CSE @ NIT Bhopal  
 🔹 Building real-world projects & sharpening fundamentals daily  
 
