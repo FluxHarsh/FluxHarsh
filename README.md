@@ -15,6 +15,7 @@
 
 🔹 Full-Stack Web Developer (MERN)  
 🔹 Learning Backend & Web3 
+
 🔹 First-year CSE @ NIT Bhopal  
 🔹 Building real-world projects & sharpening fundamentals daily  
 
