@@ -11,17 +11,16 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 🔹 Full-Stack Web Developer (MERN)  
-🔹 Learning Backend & Web3      
+🔹 Learning Backend & System Design      
 🔹 First-year CSE @ NIT Bhopal  
 🔹 Building real-world projects & sharpening fundamentals daily  
 
-
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
