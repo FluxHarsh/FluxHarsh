@@ -13,10 +13,10 @@
 
 <h2 align="center"> About Me</h2>
 
-🔹 Full-Stack Web Developer (MERN)  
-🔹 Learning Backend & System Design      
-🔹 First-year CSE @ NIT Bhopal  
-🔹 Building real-world projects & sharpening fundamentals daily  
+🔹 **Full-Stack Web Developer Intern** @ [Guidekul](https://guidekul.com)  
+🔹 **CSE '29 Student** @ NIT Bhopal (MANIT)  
+🔹 **Open Source Contributor** @ GSSoC '26  
+🔹 Specialized in modern TypeScript, Next.js, backend systems, and performance optimization  
 
 ---
 
@@ -26,7 +26,9 @@
   <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
@@ -35,3 +37,6 @@
 
 ---
 
+## 📬 Connect With Me
+- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/harshjagtap1)
+- 📧 **Email:** [harshjagtap843@gmail.com](mailto:harshjagtap843@gmail.com)
